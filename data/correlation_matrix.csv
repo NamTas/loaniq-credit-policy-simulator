@@ -1,0 +1,9 @@
+Variable,Annual_Revenue,Loan_Amount,Existing_Debt,Cash_Flow,Credit_Score,Debt_to_Income,DSCR,Business_Age
+Annual_Revenue,1,0.88,-0.02,0.82,0.09,-0.23,-0.01,-0.01
+Loan_Amount,0.88,1,-0.03,0.73,0.04,-0.15,-0.17,-0.01
+Existing_Debt,-0.02,-0.03,1,-0.01,-0.18,0.66,0,-0
+Cash_Flow,0.82,0.73,-0.01,1,0.1,-0.22,0.21,-0
+Credit_Score,0.09,0.04,-0.18,0.1,1,-0.24,0.16,0.42
+Debt_to_Income,-0.23,-0.15,0.66,-0.22,-0.24,1,-0.21,-0
+DSCR,-0.01,-0.17,0,0.21,0.16,-0.21,1,0.01
+Business_Age,-0.01,-0.01,-0,-0,0.42,-0,0.01,1

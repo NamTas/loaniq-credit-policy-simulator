@@ -1,0 +1,7 @@
+Variable,Median_Approved,Median_Rejected,W_statistic,p_value,Significant
+Loan_Amount,714000,687000,5035724.5,0.388109169771357,FALSE
+Annual_Revenue,2390316,1923857.5,5852856,0,TRUE
+Business_Age,6.95,4.9,6250702,0,TRUE
+Debt_to_Income,0.55,1.18,1948008,2.4925589556056536e-240,TRUE
+DSCR,1.31,0.6,7582287,0,TRUE
+Credit_Score,680.5,625,7697638,0,TRUE

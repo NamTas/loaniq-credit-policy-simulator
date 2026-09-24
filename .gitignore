@@ -1,0 +1,12 @@
+# R temporary & history files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive / Environment variables
+.env
