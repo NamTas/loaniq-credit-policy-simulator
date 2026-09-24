@@ -4,6 +4,7 @@
 
 [![R-Shiny](https://img.shields.io/badge/Framework-R%20Shiny-blue.svg)](https://shiny.posit.co/)
 [![Model-XGBoost](https://img.shields.io/badge/Model-XGBoost-green.svg)](https://xgboost.readthedocs.io/)
+[![Model-Logistic Regression](https://img.shields.io/badge/Model-Logistic_Regression-00599C.svg)](https://en.wikipedia.org/wiki/Logistic_regression)
 [![XAI-SHAP](https://img.shields.io/badge/Explainability-TreeSHAP-orange.svg)](https://github.com/slundberg/shap)
 [![Database-SQLite](https://img.shields.io/badge/Database-SQLite-003B57.svg)](https://www.sqlite.org/)
 [![License-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
