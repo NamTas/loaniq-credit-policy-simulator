@@ -176,7 +176,7 @@ shiny::runApp("app.R")
 
 ## ⚠️ Data Note
 
-No public dataset combines application decisions, rejection reasons, and post-disbursement repayment outcomes for SME lending in one place. This project therefore uses a **statistically structured synthetic dataset** (10,000 records, generated in `01_data_generation.R`) with realistic relationships built in — e.g., higher debt-to-income → higher rejection probability, lower credit score → higher default probability — so every statistical test and model result is meaningful and internally consistent. Rejection reasons are **derived from each model's SHAP feature contributions**, mirroring how real adverse-action reason codes are generated in regulated lending rather than stored as a raw label.
+No public dataset combines application decisions, rejection reasons, and post-disbursement repayment outcomes for SME lending in one place. This project therefore uses a **statistically structured synthetic dataset** (10,000 records, generated in `01_data_generation.R`) with realistic relationships built in e.g., higher debt-to-income → higher rejection probability, lower credit score → higher default probability. So every statistical test and model result is meaningful and internally consistent. Rejection reasons are **derived from each model's SHAP feature contributions**, mirroring how real adverse-action reason codes are generated in regulated lending rather than stored as a raw label.
 
 ---
 
